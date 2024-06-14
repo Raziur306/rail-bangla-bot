@@ -10,11 +10,13 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@types/cli-color": "^2.0.6",
     "ts-node": "^10.9.2",
     "typescript": "^5.4.5"
   },
   "dependencies": {
     "@types/express": "^4.17.21",
+    "cli-color": "^2.0.4",
     "dotenv": "^16.4.5",
     "express": "^4.19.2",
     "puppeteer": "^22.11.0",
